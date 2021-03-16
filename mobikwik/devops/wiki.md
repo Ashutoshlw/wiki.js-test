@@ -2,7 +2,7 @@
 title: wiki.js
 description: Wiki.js Documentation
 published: true
-date: 2021-03-16T10:07:44.623Z
+date: 2021-03-16T10:11:12.967Z
 tags: wiki.js docs
 editor: markdown
 dateCreated: 2021-03-16T06:56:06.091Z
@@ -27,7 +27,7 @@ dateCreated: 2021-03-16T06:56:06.091Z
 > User & Groups :  Created a group "Devops", add users in Devops groups so user can inherit properties of group.
 {.is-success}
 
-> Image upload : Image upload process is working in given instance , but there is some bugs in wiki.js 2.5.170 version , need to upgrade. 
+> Image upload : Image upload process is working in given instance , but there seems is some issue/bugs in wiki.js 2.5.170 version , need to upgrade. 
 {.is-warning}
 
 Diagram : Try rendering below.
