@@ -2,7 +2,7 @@
 title: wiki.js
 description: Wiki.js Documentation
 published: true
-date: 2021-03-16T10:11:12.967Z
+date: 2021-03-16T10:11:18.662Z
 tags: wiki.js docs
 editor: markdown
 dateCreated: 2021-03-16T06:56:06.091Z
