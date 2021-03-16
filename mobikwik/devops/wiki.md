@@ -2,7 +2,7 @@
 title: wiki.js
 description: Wiki.js Documentation
 published: true
-date: 2021-03-16T07:03:24.184Z
+date: 2021-03-16T07:03:37.147Z
 tags: wiki.js docs
 editor: markdown
 dateCreated: 2021-03-16T06:56:06.091Z
@@ -17,3 +17,4 @@ dateCreated: 2021-03-16T06:56:06.091Z
 > Wiki software originated from older version control systems used for documentation and software.
 
 > It tends to have a greater emphasis on features like access control, and document management.
+
